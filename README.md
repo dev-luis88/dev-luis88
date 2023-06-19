@@ -18,7 +18,7 @@
 - Computer Science student at university
 - Self-taught learning is my passion
 - Currently learning Web Development by Self
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](#)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1cpXF3jDf8B-tA8v1zoM4AHFSevhPgqjG/view?usp=sharing)
 
 <br><br>
 
