@@ -90,7 +90,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/luis-farias-16b6a618a/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  LuisFarias%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -100,7 +100,7 @@
 
 <li>
 <a href="mailto:luisfariasmusicista@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  LuisFarias%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
