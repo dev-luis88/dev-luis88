@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+![[68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c656574436f64652d4646413131363f7374796c653d666f722d7468652d6261646765266c6f676f3d4c656574436f6465266c6f676f436f6c6f723d626c61636b](https://github.com/fararoth/fararoth/assets/60280254/b4f6f024-c2aa-4a4c-a0f6-4fdb56fbd27b)]([https://www.google.com](https://www.linkedin.com/in/luis-farias-16b6a618a/))
 <!---->
 **fararoth/fararoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 
