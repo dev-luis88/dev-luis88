@@ -10,9 +10,8 @@
 
 
 
+## <picture><img src = "https://github.com/fararoth/fararoth/assets/60280254/028740b1-1207-4ee9-98d2-80d1fb8fd620" width = 50px></picture> **About me**
 	
-## <picture>![about_me](https://github.com/fararoth/fararoth/assets/60280254/028740b1-1207-4ee9-98d2-80d1fb8fd620) **About me**
-
 <br>
 
 - Passionate about the world of technology and programming
@@ -25,7 +24,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## ![68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a3277723364](https://github.com/fararoth/fararoth/assets/60280254/807dbf6b-0e3e-48c5-a2bd-d2ea6b45d802)<b> Skills</b>
+## <img src="https://github.com/fararoth/fararoth/assets/60280254/807dbf6b-0e3e-48c5-a2bd-d2ea6b45d802" width ="25"><b> Skills</b>
 <br>
 
 <p align="center">
